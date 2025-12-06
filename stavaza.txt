@@ -4,3 +4,5 @@ Module 2 Quick Start done
          The Application Context done
          Handling Multiple Configurations done ( dit not quite get the "tramp" notion however)
          Bean scopes done
+        Java Configuration Lab
+            class config.RewardsConfig done
